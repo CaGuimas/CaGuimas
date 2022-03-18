@@ -2,7 +2,7 @@
   <h1> Olá!! Sou Caio, estudante de programção e apaixonado por tecnologia. <h1>
 </div>
     
-- 🌱 Atualmente estou aprendendo Java e ReactJs.
+• 🌱 Atualmente aprendendo Java e ReactJs.
     
     
   <div align="center">
