@@ -1,7 +1,5 @@
-<div>
-  <h1> Olá!! Sou Caio, estudante de programção e apaixonado por tecnologia. <h1>
-</div>
-     
+## Olá!! Sou Caio, estudante de programção e apaixonado por tecnologia.
+
   <div align="center">
   <a href="https://github.com/CaGuimas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaGuimas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
